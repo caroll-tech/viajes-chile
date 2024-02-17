@@ -3,5 +3,14 @@
 }
 
 .fondo-icono {
-  background-color: #499ca0;
+  background-color: aqua;
+}
+.pie {
+  height: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.espaciado {
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
